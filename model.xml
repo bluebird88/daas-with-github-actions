@@ -4,10 +4,11 @@
 >
     <platform
         name="PIM"
-        founded="now()"
+        founded="now()"  
         contact_number="992887654321"
+              
     />
-    <brand name="Candys|Sees"  platform="platform()"/>
+    <brand name="Candys|Sees"  platform="platform()" />
     <product name="popcorn|chocklate" image="snack.jpg" brand="brand()"  platform="platform()" />
     <sku name="sku" product="product()" brand="brand()" platform="platform()" create_time="createTime()" />
 </root>
